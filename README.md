@@ -2,6 +2,9 @@
 
 A strategic conquest game inspired by the classic game Fracas, implemented using Kotlin and Jetpack Compose UI.
 
+![Screenshot_20250707_152210_Fracas (1)](https://github.com/user-attachments/assets/f0364433-6ce0-4d61-aafa-c96f49e7ca38)
+
+
 ## Game Overview
 
 Fracas is a turn-based strategy game where players compete to conquer territory on a grid. Each player starts with a single capital cell and must expand their territory by attacking neighboring cells. The game combines elements of risk management, resource allocation, and tactical positioning.
